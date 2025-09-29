@@ -1,5 +1,5 @@
 # Mission Co-Pilot: An AI Driver Monitoring System 🚗💨
-![Mission Copilot](Downloads/Mission_copilot.jpeg)
+![Mission Copilot](C:\Users\t2208\OneDrive\Pictures\Screenshots)
 
 
 ## This repository contains the code for Mission Co-Pilot, a real-time driver monitoring system built to enhance automotive safety by detecting signs of drowsiness and distraction using computer vision.
